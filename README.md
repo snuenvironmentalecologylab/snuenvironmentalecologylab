@@ -7,7 +7,7 @@
  
 --->
 
-## Welcome to the Environmental Ecology Lab at Seoul National University!
+## Welcome to the Environmental Sensing Lab at Seoul National University!
 
 Human activities transform the land surface properties by practices. The change of land surface properties directly influences the exchanges of water, energy and carbon between land and the atmosphere, which modulates micrometeorology to the climate system. We study theory, make observations, and develop models to understand and predict better the land-atmosphere interactions. We want to answer several simple scientific questions: 1) where are carbon and water? 2) what are their quantities? 3) how do they move? To answer these questions, we use a range of tools including satellite remote sensing, near-surface remote sensing, eddy covariance system, land surface model, and GIS. We aim to incorporate our scientific knowledge into environmental planning and management to achieve low carbon societies and maintain sustainable water resources. Above all, we envision that the integration of land-atmosphere interactions (vertical process) and landscape ecology (horizontal processes across landscape elements) will enable us to see landscapes as a 3-dimensional complex system that undergo dynamic interactions constantly. This novel way of thinking and viewing, the central tenet of our lab, could provide creative methods in environmental planning and management.
 
